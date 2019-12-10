@@ -1,0 +1,4 @@
+Vendedor Sueldo Edad Ventas
+Alex 10000 40 50000
+Luis 11000 35 35000
+Pedro 12000 65 45000

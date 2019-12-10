@@ -1,0 +1,201 @@
+ID,Vendedor,Producto,Precio,Mes,Costo,Competencia
+1,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+2,Maca Prabo,Tablet, 350  ,Enero,297.5,355.25
+3,Merk Adona,PS4, 400  ,Marzo,340,406
+4,Carl Refur,Tablet, 350  ,Marzo,297.5,355.25
+5,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+6,Mikal Campo,Auriculares, 25  ,Febrero,21.25,25.375
+7,Maca Prabo,PS4, 400  ,Enero,340,406
+8,Mikal Campo,PC, 600  ,Febrero,510,609
+9,Mikal Campo,Anti-Virus, 130  ,Febrero,110.5,131.95
+10,Mikal Campo,PS4, 400  ,Febrero,340,406
+11,Hasan Chezro Mero,Anti-Virus, 130  ,Enero,110.5,131.95
+12,Merk Adona,Auriculares, 25  ,Enero,21.25,25.375
+13,Mikal Campo,PC, 600  ,Enero,510,609
+14,Carl Refur,PS4, 400  ,Febrero,340,406
+15,Hasan Chezro Mero,PS4, 400  ,Febrero,340,406
+16,Carl Refur,PS4, 400  ,Febrero,340,406
+17,Hasan Chezro Mero,Auriculares, 25  ,Enero,21.25,25.375
+18,Merk Adona,Anti-Virus, 130  ,Febrero,110.5,131.95
+19,Carl Refur,Móvil, 250  ,Enero,212.5,253.75
+20,Hasan Chezro Mero,Móvil, 250  ,Febrero,212.5,253.75
+21,Hasan Chezro Mero,PC, 600  ,Febrero,510,609
+22,Merk Adona,PS4, 400  ,Febrero,340,406
+23,Mikal Campo,Auriculares, 25  ,Marzo,21.25,25.375
+24,Merk Adona,Auriculares, 25  ,Febrero,21.25,25.375
+25,Merk Adona,PS4, 400  ,Febrero,340,406
+26,Hasan Chezro Mero,Anti-Virus, 130  ,Febrero,110.5,131.95
+27,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+28,Hasan Chezro Mero,Móvil, 250  ,Enero,212.5,253.75
+29,Merk Adona,Móvil, 250  ,Enero,212.5,253.75
+30,Mikal Campo,Anti-Virus, 130  ,Enero,110.5,131.95
+31,Mikal Campo,PC, 600  ,Enero,510,609
+32,Carl Refur,Anti-Virus, 130  ,Enero,110.5,131.95
+33,Carl Refur,Tablet, 350  ,Febrero,297.5,355.25
+34,Maca Prabo,Anti-Virus, 130  ,Enero,110.5,131.95
+35,Carl Refur,PS4, 400  ,Marzo,340,406
+36,Carl Refur,PC, 600  ,Enero,510,609
+37,Maca Prabo,Móvil, 250  ,Febrero,212.5,253.75
+38,Maca Prabo,PS4, 400  ,Enero,340,406
+39,Maca Prabo,Tablet, 350  ,Febrero,297.5,355.25
+40,Hasan Chezro Mero,Tablet, 350  ,Febrero,297.5,355.25
+41,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+42,Merk Adona,Auriculares, 25  ,Marzo,21.25,25.375
+43,Mikal Campo,PS4, 400  ,Enero,340,406
+44,Mikal Campo,PC, 600  ,Febrero,510,609
+45,Carl Refur,Auriculares, 25  ,Febrero,21.25,25.375
+46,Maca Prabo,Tablet, 350  ,Enero,297.5,355.25
+47,Carl Refur,Tablet, 350  ,Febrero,297.5,355.25
+48,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+49,Mikal Campo,PS4, 400  ,Febrero,340,406
+50,Hasan Chezro Mero,Auriculares, 25  ,Marzo,21.25,25.375
+51,Mikal Campo,PS4, 400  ,Febrero,340,406
+52,Merk Adona,Auriculares, 25  ,Enero,21.25,25.375
+53,Mikal Campo,PC, 600  ,Febrero,510,609
+54,Mikal Campo,Auriculares, 25  ,Enero,21.25,25.375
+55,Carl Refur,PS4, 400  ,Enero,340,406
+56,Merk Adona,PC, 600  ,Febrero,510,609
+57,Hasan Chezro Mero,Móvil, 250  ,Febrero,212.5,253.75
+58,Mikal Campo,Auriculares, 25  ,Febrero,21.25,25.375
+59,Merk Adona,PC, 600  ,Febrero,510,609
+60,Mikal Campo,Móvil, 250  ,Marzo,212.5,253.75
+61,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+62,Merk Adona,Auriculares, 25  ,Febrero,21.25,25.375
+63,Mikal Campo,Auriculares, 25  ,Febrero,21.25,25.375
+64,Hasan Chezro Mero,PS4, 400  ,Febrero,340,406
+65,Maca Prabo,Móvil, 250  ,Febrero,212.5,253.75
+66,Hasan Chezro Mero,PS4, 400  ,Enero,340,406
+67,Mikal Campo,PS4, 400  ,Enero,340,406
+68,Maca Prabo,Anti-Virus, 130  ,Enero,110.5,131.95
+69,Maca Prabo,Anti-Virus, 130  ,Enero,110.5,131.95
+70,Merk Adona,Tablet, 350  ,Enero,297.5,355.25
+71,Merk Adona,Anti-Virus, 130  ,Marzo,110.5,131.95
+72,Hasan Chezro Mero,Móvil, 250  ,Enero,212.5,253.75
+73,Carl Refur,PS4, 400  ,Febrero,340,406
+74,Carl Refur,Móvil, 250  ,Febrero,212.5,253.75
+75,Merk Adona,Tablet, 350  ,Febrero,297.5,355.25
+76,Hasan Chezro Mero,Anti-Virus, 130  ,Enero,110.5,131.95
+77,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+78,Hasan Chezro Mero,Auriculares, 25  ,Febrero,21.25,25.375
+79,Carl Refur,PC, 600  ,Enero,510,609
+80,Hasan Chezro Mero,Móvil, 250  ,Enero,212.5,253.75
+81,Carl Refur,Anti-Virus, 130  ,Marzo,110.5,131.95
+82,Maca Prabo,Anti-Virus, 130  ,Febrero,110.5,131.95
+83,Maca Prabo,Tablet, 350  ,Enero,297.5,355.25
+84,Mikal Campo,PS4, 400  ,Febrero,340,406
+85,Mikal Campo,PC, 600  ,Enero,510,609
+86,Maca Prabo,Auriculares, 25  ,Enero,21.25,25.375
+87,Maca Prabo,Auriculares, 25  ,Enero,21.25,25.375
+88,Mikal Campo,Móvil, 250  ,Marzo,212.5,253.75
+89,Maca Prabo,PS4, 400  ,Marzo,340,406
+90,Mikal Campo,PS4, 400  ,Febrero,340,406
+91,Mikal Campo,Anti-Virus, 130  ,Enero,110.5,131.95
+92,Merk Adona,PC, 600  ,Marzo,510,609
+93,Mikal Campo,Anti-Virus, 130  ,Enero,110.5,131.95
+94,Maca Prabo,Anti-Virus, 130  ,Enero,110.5,131.95
+95,Merk Adona,Tablet, 350  ,Enero,297.5,355.25
+96,Hasan Chezro Mero,PS4, 400  ,Marzo,340,406
+97,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+98,Hasan Chezro Mero,Tablet, 350  ,Marzo,297.5,355.25
+99,Merk Adona,PC, 600  ,Enero,510,609
+100,Maca Prabo,Tablet, 350  ,Febrero,297.5,355.25
+101,Carl Refur,Auriculares, 25  ,Enero,21.25,25.375
+102,Carl Refur,Tablet, 350  ,Enero,297.5,355.25
+103,Mikal Campo,PC, 600  ,Enero,510,609
+104,Mikal Campo,Anti-Virus, 130  ,Enero,110.5,131.95
+105,Mikal Campo,Auriculares, 25  ,Febrero,21.25,25.375
+106,Carl Refur,Anti-Virus, 130  ,Enero,110.5,131.95
+107,Mikal Campo,Tablet, 350  ,Enero,297.5,355.25
+108,Carl Refur,Auriculares, 25  ,Febrero,21.25,25.375
+109,Carl Refur,Auriculares, 25  ,Enero,21.25,25.375
+110,Merk Adona,Auriculares, 25  ,Enero,21.25,25.375
+111,Maca Prabo,PC, 600  ,Enero,510,609
+112,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+113,Maca Prabo,PC, 600  ,Enero,510,609
+114,Merk Adona,PC, 600  ,Marzo,510,609
+115,Hasan Chezro Mero,PC, 600  ,Enero,510,609
+116,Carl Refur,Auriculares, 25  ,Enero,21.25,25.375
+117,Carl Refur,Tablet, 350  ,Febrero,297.5,355.25
+118,Mikal Campo,PS4, 400  ,Marzo,340,406
+119,Hasan Chezro Mero,PC, 600  ,Marzo,510,609
+120,Carl Refur,PC, 600  ,Enero,510,609
+121,Merk Adona,PC, 600  ,Febrero,510,609
+122,Maca Prabo,Auriculares, 25  ,Enero,21.25,25.375
+123,Hasan Chezro Mero,Anti-Virus, 130  ,Enero,110.5,131.95
+124,Carl Refur,PC, 600  ,Enero,510,609
+125,Carl Refur,Móvil, 250  ,Enero,212.5,253.75
+126,Mikal Campo,PC, 600  ,Enero,510,609
+127,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+128,Mikal Campo,PS4, 400  ,Enero,340,406
+129,Hasan Chezro Mero,Anti-Virus, 130  ,Enero,110.5,131.95
+130,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+131,Merk Adona,Anti-Virus, 130  ,Febrero,110.5,131.95
+132,Merk Adona,PS4, 400  ,Marzo,340,406
+133,Mikal Campo,Tablet, 350  ,Enero,297.5,355.25
+134,Mikal Campo,Anti-Virus, 130  ,Enero,110.5,131.95
+135,Hasan Chezro Mero,Auriculares, 25  ,Febrero,21.25,25.375
+136,Maca Prabo,PS4, 400  ,Marzo,340,406
+137,Maca Prabo,Auriculares, 25  ,Febrero,21.25,25.375
+138,Mikal Campo,PS4, 400  ,Enero,340,406
+139,Merk Adona,PC, 600  ,Febrero,510,609
+140,Hasan Chezro Mero,PC, 600  ,Enero,510,609
+141,Merk Adona,Anti-Virus, 130  ,Enero,110.5,131.95
+142,Maca Prabo,Auriculares, 25  ,Febrero,21.25,25.375
+143,Hasan Chezro Mero,Tablet, 350  ,Enero,297.5,355.25
+144,Merk Adona,PS4, 400  ,Marzo,340,406
+145,Hasan Chezro Mero,Auriculares, 25  ,Febrero,21.25,25.375
+146,Mikal Campo,PC, 600  ,Marzo,510,609
+147,Hasan Chezro Mero,Tablet, 350  ,Febrero,297.5,355.25
+148,Mikal Campo,Auriculares, 25  ,Marzo,21.25,25.375
+149,Carl Refur,PC, 600  ,Marzo,510,609
+150,Hasan Chezro Mero,Móvil, 250  ,Enero,212.5,253.75
+151,Hasan Chezro Mero,PS4, 400  ,Febrero,340,406
+152,Carl Refur,Anti-Virus, 130  ,Marzo,110.5,131.95
+153,Merk Adona,PC, 600  ,Enero,510,609
+154,Mikal Campo,Anti-Virus, 130  ,Enero,110.5,131.95
+155,Carl Refur,Móvil, 250  ,Febrero,212.5,253.75
+156,Mikal Campo,Auriculares, 25  ,Febrero,21.25,25.375
+157,Mikal Campo,PS4, 400  ,Enero,340,406
+158,Mikal Campo,Auriculares, 25  ,Febrero,21.25,25.375
+159,Merk Adona,PC, 600  ,Febrero,510,609
+160,Maca Prabo,Tablet, 350  ,Enero,297.5,355.25
+161,Carl Refur,Auriculares, 25  ,Enero,21.25,25.375
+162,Maca Prabo,PS4, 400  ,Enero,340,406
+163,Hasan Chezro Mero,PC, 600  ,Enero,510,609
+164,Carl Refur,PC, 600  ,Marzo,510,609
+165,Maca Prabo,Auriculares, 25  ,Febrero,21.25,25.375
+166,Maca Prabo,PS4, 400  ,Enero,340,406
+167,Hasan Chezro Mero,Anti-Virus, 130  ,Enero,110.5,131.95
+168,Carl Refur,Auriculares, 25  ,Marzo,21.25,25.375
+169,Merk Adona,PC, 600  ,Marzo,510,609
+170,Carl Refur,PS4, 400  ,Enero,340,406
+171,Mikal Campo,Tablet, 350  ,Enero,297.5,355.25
+172,Hasan Chezro Mero,PC, 600  ,Enero,510,609
+173,Carl Refur,PS4, 400  ,Marzo,340,406
+174,Carl Refur,Tablet, 350  ,Marzo,297.5,355.25
+175,Merk Adona,PS4, 400  ,Enero,340,406
+176,Mikal Campo,Tablet, 350  ,Enero,297.5,355.25
+177,Merk Adona,PC, 600  ,Febrero,510,609
+178,Merk Adona,PC, 600  ,Enero,510,609
+179,Carl Refur,Tablet, 350  ,Enero,297.5,355.25
+180,Maca Prabo,PC, 600  ,Enero,510,609
+181,Hasan Chezro Mero,Móvil, 250  ,Febrero,212.5,253.75
+182,Hasan Chezro Mero,PS4, 400  ,Marzo,340,406
+183,Merk Adona,PS4, 400  ,Febrero,340,406
+184,Mikal Campo,PC, 600  ,Enero,510,609
+185,Carl Refur,Tablet, 350  ,Febrero,297.5,355.25
+186,Mikal Campo,Móvil, 250  ,Marzo,212.5,253.75
+187,Carl Refur,Tablet, 350  ,Enero,297.5,355.25
+188,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+189,Carl Refur,PS4, 400  ,Marzo,340,406
+190,Hasan Chezro Mero,Auriculares, 25  ,Enero,21.25,25.375
+191,Carl Refur,Tablet, 350  ,Enero,297.5,355.25
+192,Merk Adona,Móvil, 250  ,Marzo,212.5,253.75
+193,Hasan Chezro Mero,Tablet, 350  ,Febrero,297.5,355.25
+194,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+195,Mikal Campo,Anti-Virus, 130  ,Febrero,110.5,131.95
+196,Mikal Campo,PC, 600  ,Enero,510,609
+197,Maca Prabo,Móvil, 250  ,Enero,212.5,253.75
+198,Mikal Campo,PC, 600  ,Marzo,510,609
+199,Mikal Campo,Auriculares, 25  ,Enero,21.25,25.375
+200,Carl Refur,Auriculares, 25  ,Enero,21.25,25.375
