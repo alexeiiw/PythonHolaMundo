@@ -13,11 +13,15 @@ y=datos.ix[:,0]
 
 #print(datos)
 
+#tutorial
+plt.plot([1,2,3,4,5], [1,3,9,12,15],'ro')
+
 #elabora la grafica
-plt.plot(y,x1,'ro',y,x2,'g^',y,x3,'bs')
+#plt.plot(y,x1,'ro',y,x2,'g^',y,x3,'bs')
 #plt.plot(y,'g^')
 #plt.xlabel('Precio')
-plt.ylabel('Precios')
+
+plt.ylabel('Algunos números')
 plt.show()
 #print(y.describe())
 
