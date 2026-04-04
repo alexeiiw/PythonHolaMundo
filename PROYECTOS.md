@@ -15,6 +15,7 @@ Este archivo clasifica los recursos del repositorio y propone proyectos basados 
 
 | Palabra Clave | Cuaderno / Script | Tema de Enseñanza | Enfoque Didáctico |
 | :--- | :--- | :--- | :--- |
+| **`SELECTOR_CITAS`** | `selector_citas.py` | Manipulación de JSON y Aleatoriedad. | Lectura de archivos y actualización de estados. |
 | **`CLASE_GENÉTICA`** | `AlgoritmoGenetico.ipynb` | Optimización heurística. | Explicación de Selección, Cruce y Mutación. |
 | **`CLASE_LÓGICA`** | `LogicaPrimerOrden.ipynb` | Inteligencia Artificial Base. | Representación de conocimiento y predicados. |
 | **`CLASE_ESTADÍSTICA`**| `Estadistica.ipynb` | Fundamentos de EDA. | Medidas de tendencia central y dispersión. |
