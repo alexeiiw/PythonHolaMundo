@@ -22,4 +22,3 @@ Este archivo clasifica los recursos del repositorio y propone proyectos basados 
 | **`CLASE_INICIO`** | `HolaMundo.py`, `Edad.py` | Sintaxis básica y validación. | Entrada de usuario (`input`) y tipos de datos. |
 
 ---
-**Nota sobre Win95:** Se recomienda ejecutar la imagen en un entorno Windows con **VMware Workstation/Player** para asegurar la compatibilidad de drivers y el entorno de desarrollo C++ preinstalado.
